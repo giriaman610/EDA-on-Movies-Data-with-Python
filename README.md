@@ -89,6 +89,8 @@ for col in numeric_columns:
     plt.show()
 ```
 ![Dashboard Preview](https://github.com/giriaman610/EDA-on-Movies-Data-with-Python/blob/main/Screenshot%202026-04-21%20152059.png)
+### Budget Distribution
+<img src="https://github.com/giriaman610/EDA-on-Movies-Data-with-Python/blob/main/Screenshot%202026-04-21%20152059.png" width="600"/>
 
 > 💡 **Key Insight:** `BudgetUSD` was highly right-skewed. A **log transformation** was applied to better visualize the actual budget spread.
 
