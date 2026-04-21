@@ -1,4 +1,4 @@
-# Exploatory-Data-Analysis-on-Movies-Data
+# Exploratory-Data-Analysis-on-Movies-Data
 # 🎬 Movie Dataset — Exploratory Data Analysis (EDA)
 
 A complete end-to-end EDA project on a movies dataset using Python. This project explores box office performance, genre trends, critic ratings, and actor insights through visual analysis.
