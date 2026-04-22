@@ -116,6 +116,8 @@ for col in Categorical_Columns:
     plt.title(f"Top20_{col}_Distribution")
     plt.show()
 ```
+<img src="https://github.com/giriaman610/EDA-on-Movies-Data-with-Python/blob/main/Screenshot%202026-04-23%20004425.png" width="600"/>
+<img src="https://github.com/giriaman610/EDA-on-Movies-Data-with-Python/blob/main/Screenshot%202026-04-23%20004607.png" width="600"/>
 
 ---
 
